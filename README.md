@@ -2,36 +2,41 @@
 
 Inspired by **#100DaysOfCode**, I've decided to challenge myself into becoming a Data Engineer by studying and building Data/ML pipeline for 10-12 hours every day for the next 60 days. This started today 3rd of September and should be finished by 4th of November, 2019. My focus will be on ML/DL pipeline and Data Engineering tools around it such as KubeFlow, Apache Airflow, Apache Spark, Apache Kafka, and Tensorflow. I will document my progress on Github and update daily logs in LinkedIn.
 
-## Day 0: September 3, 2019 (template)
-**Today's Progress:** 
+# Day 4: September 6, 2019
 
-**Thoughts:** 
+**Today's Progress:** Today I finished the **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** course on Coursera.
 
-**Link to work:**
+**Thoughts:** It was not a difficult course. However, it gave me a solid understanding of Tensorflow 2.0 API and Convolutional Neural Networks (ConvNets). Building some simple image classifiers were fun.
 
-## Day 1: September 3, 2019
-**Today's Progress:** Spent time learning about Apache Airflow. Airflow is a platform to programmatically author, schedule and monitor workflows. Link: https://airflow.apache.org/index.html
+**Useful Links:**
 
-**Thoughts:** Very happy with my progress, and excited to start building a Dynamodb to BigQuery ETL pipeline using Airflow tomorrow.
+👉 Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning https://www.coursera.org/learn/introduction-tensorflow
 
-**There are so many excellent blogs on Airflow. Today I want to share some beginner-friendly resources:**
+👉 Fashion MNIST with Keras and TPUs https://research.google.com/seedbank/seed/fashion_mnist_with_keras_and_tpus
 
-👉 Airflow official documentation https://airflow.apache.org/index.html
+👉 Understanding Convolutions https://colah.github.io/posts/2014-07-Understanding-Convolutions/
 
-👉 Apache Airflow for the confused - Jonathan Pichot
-https://medium.com/nyc-planning-digital/apache-airflow-for-the-confused-b588935669df
+## Day 3: September 5, 2019
+**Today's Progress:** Today I started **TensorFlow in Practice Specialization** from `deeplearning.ai`. I am in week 4 of **Introduction to TensorFlow for Artificial Intelligence** course. 
 
-👉 Apache Airflow: Tutorial and Beginners Guide
-https://www.polidea.com/blog/apache-airflow-tutorial-and-beginners-guide/
+**Thoughts:** I like the way **Al Advocate** (Instructor) introduced Convolutional neural network by building a simple classifier using fashion mnist dataset and Tensorflow. **TensorFlow in Practice Specialization** is hands-on. Looking forward to learn more about TensorFlow.
 
-👉 Apache Airflow on Docker for Complete Beginners
-https://medium.com/@itunpredictable/apache-airflow-on-docker-for-complete-beginners-cf76cf7b2c9a
+**Useful Links:**
 
-👉 Understanding Apache Airflow’s key concepts
-https://medium.com/@dustinstansbury/understanding-apache-airflows-key-concepts-a96efed52b1a
+👉 TensorFlow in Practice Specialization 
+https://www.coursera.org/specializations/tensorflow-in-practice
 
-👉 How to start automating your data pipelines with Airflow - Sriram Baskaran
-https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94
+👉 Different Convolution Filters
+https://lodev.org/cgtutor/filtering.html
+
+👉 Machine Learning Fairness
+https://developers.google.com/machine-learning/fairness-overview/
+
+👉 Collection of Interactive Machine Learning Examples
+https://research.google.com/seedbank/
+
+👉 Step-by-step Guide to Install TensorFlow 2
+https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265
 
 ## Day 2: September 4, 2019
 **Today's Progress:** I wrote a blog post on LinkedIn where I explained Apache Airflow core concepts.  
@@ -60,25 +65,29 @@ https://medium.com/hashmapinc/orchestration-and-dag-design-in-apache-airflow-two
 👉 Apache Airflow Core Concepts - Zahidul Islam
 https://www.linkedin.com/pulse/apache-airflow-core-concepts-zahidul-islam/?trackingId=X3YNEn0IQHehblxk9G0Z7Q%3D%3D
 
+## Day 1: September 3, 2019
+**Today's Progress:** Spent time learning about Apache Airflow. Airflow is a platform to programmatically author, schedule and monitor workflows. Link: https://airflow.apache.org/index.html
 
-## Day 3: September 5, 2019
-**Today's Progress:** Today I started **TensorFlow in Practice Specialization** from `deeplearning.ai`. I am in week 4 of **Introduction to TensorFlow for Artificial Intelligence** course. 
+**Thoughts:** Very happy with my progress, and excited to start building a Dynamodb to BigQuery ETL pipeline using Airflow tomorrow.
 
-**Thoughts:** I like the way **Al Advocate** (Instructor) introduced Convolutional neural network by building a simple classifier using fashion mnist dataset and Tensorflow. **TensorFlow in Practice Specialization** is hands-on. Looking forward to learn more about TensorFlow.
+**There are so many excellent blogs on Airflow. Today I want to share some beginner-friendly resources:**
 
-**Useful Links:**
+👉 Airflow official documentation https://airflow.apache.org/index.html
 
-👉 TensorFlow in Practice Specialization 
-https://www.coursera.org/specializations/tensorflow-in-practice
+👉 Apache Airflow for the confused - Jonathan Pichot
+https://medium.com/nyc-planning-digital/apache-airflow-for-the-confused-b588935669df
 
-👉 Different Convolution Filters
-https://lodev.org/cgtutor/filtering.html
+👉 Apache Airflow: Tutorial and Beginners Guide
+https://www.polidea.com/blog/apache-airflow-tutorial-and-beginners-guide/
 
-👉 Machine Learning Fairness
-https://developers.google.com/machine-learning/fairness-overview/
+👉 Apache Airflow on Docker for Complete Beginners
+https://medium.com/@itunpredictable/apache-airflow-on-docker-for-complete-beginners-cf76cf7b2c9a
 
-👉 Collection of Interactive Machine Learning Examples
-https://research.google.com/seedbank/
+👉 Understanding Apache Airflow’s key concepts
+https://medium.com/@dustinstansbury/understanding-apache-airflows-key-concepts-a96efed52b1a
 
-👉 Step-by-step Guide to Install TensorFlow 2
-https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265
+👉 How to start automating your data pipelines with Airflow - Sriram Baskaran
+https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94
+
+
+
