@@ -61,7 +61,24 @@ https://medium.com/hashmapinc/orchestration-and-dag-design-in-apache-airflow-two
 https://www.linkedin.com/pulse/apache-airflow-core-concepts-zahidul-islam/?trackingId=X3YNEn0IQHehblxk9G0Z7Q%3D%3D
 
 
+## Day 3: September 5, 2019
+**Today's Progress:** Today I started **TensorFlow in Practice Specialization** from `deeplearning.ai`. I am in week 4 of **Introduction to TensorFlow for Artificial Intelligence** course. 
 
+**Thoughts:** I like the way **Al Advocate** (Instructor) introduced Convolutional neural network by building a simple classifier using fashion mnist dataset and Tensorflow. **TensorFlow in Practice Specialization** is hands-on. Looking forward to learn more about TensorFlow.
 
+**Useful Links:**
 
+👉 TensorFlow in Practice Specialization 
+https://www.coursera.org/specializations/tensorflow-in-practice
 
+👉 Different Convolution Filters
+https://lodev.org/cgtutor/filtering.html
+
+👉 Machine Learning Fairness
+https://developers.google.com/machine-learning/fairness-overview/
+
+👉 Collection of Interactive Machine Learning Examples
+https://research.google.com/seedbank/
+
+👉 Step-by-step Guide to Install TensorFlow 2
+https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265
