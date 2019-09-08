@@ -2,6 +2,11 @@
 
 Inspired by **#100DaysOfCode**, I've decided to challenge myself into becoming a Data Engineer by studying and building Data/ML pipeline for 10-12 hours every day for the next 60 days. This started today 3rd of September and should be finished by 4th of November, 2019. My focus will be on ML/DL pipeline and Data Engineering tools around it such as KubeFlow, Apache Airflow, Apache Spark, Apache Kafka, and Tensorflow. I will document my progress on Github and update daily logs in LinkedIn.
 
+# Day 5: September 7, 2019
+**Today's Progress:** Today was no a productive day. Only finish Week 1 content of **Natural Language Processing with Tensorflow** course.
+
+**Thoughts:** I am excited and looking forward to start **Insight Data Engineering Fellows Program** on September 9th 2019.
+
 # Day 4: September 6, 2019
 
 **Today's Progress:** Today I finished the **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** course on Coursera.
